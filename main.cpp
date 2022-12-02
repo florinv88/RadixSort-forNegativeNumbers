@@ -114,7 +114,7 @@ void RadixSort(int vec[], int size)
     }
 
     // FORMEZ UN NOU VECTOR
-    // v-a fi format din cei 2 vectori
+    // va fi format din cei 2 vectori
     // cel negativ este sortat crescator dar pentru ca am luat valorile in modul v-a trebuie sa il punem de la sfarsit la inceput
 
     int vec_temp[size];
