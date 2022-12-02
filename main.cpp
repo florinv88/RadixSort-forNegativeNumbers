@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// functie care imi returneaza un vector doar cu valori pozitive
+// functie care imi returneaza un vector doar cu valori pozitive/negative
 void extractValues(int vec[], int size, int pVector[], bool tip)
 {
 
